@@ -1,0 +1,35 @@
+.container {
+    background-image: url('kemerdekaan.jpg');
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .box {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+  }
+
+h1, p {
+  margin: 0;
+  font-size: 40px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+    font-size: 20px;
+  }
+  
+a {
+    font-size: 19px;
+  }
+   
